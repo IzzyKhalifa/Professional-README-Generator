@@ -16,6 +16,9 @@ This README is created by using this application.
 Here you can add installation instructions
 ## Usage
 You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
+The following animation demonstrates the application functionality:
+![A user clicks on slots on the color-coded calendar and edits the events.](./assets/demo.gif)
+
 ## Contributing
 Here you can add your contributing details.
 ## Tests
@@ -26,3 +29,4 @@ Please see https://mit-license.org/ to get detailed information for this license
 ## Questions
 You can find me [HERE](https://github.com/IzzyKhalifa) on Github
 You can email me at izzy.e.khalifa@gmail.com if you have any additional questions.
+
